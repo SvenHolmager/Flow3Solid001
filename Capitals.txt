@@ -1,0 +1,5 @@
+Capitals
+Denmark, Copenhagen
+England, London
+Sweden, Stockholm
+Norway, Oslo
